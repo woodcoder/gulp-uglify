@@ -1,13 +1,13 @@
 {
   "name": "gulp-uglify",
   "description": "Minify files with UglifyJS.",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": "Terin Stock <terinjokes@gmail.com>",
   "dependencies": {
     "deepmerge": "~0.2.7",
     "gulp-util": "~2.2.14",
     "through2": "~0.4.0",
-    "uglify-js": "~2.4.6",
+    "uglify-js": "git://github.com/woodcoder/UglifyJS2.git#b2e9d5a02d8b988420f0874e79c4d14d720a6426",
     "vinyl": "~0.2.3"
   },
   "devDependencies": {
