@@ -7,7 +7,7 @@
     "deepmerge": "~0.2.7",
     "gulp-util": "~2.2.14",
     "through2": "~0.4.0",
-    "uglify-js": "git://github.com/woodcoder/UglifyJS2.git#b2e9d5a02d8b988420f0874e79c4d14d720a6426",
+    "uglify-js": "git://github.com/woodcoder/UglifyJS2.git#input-sources-content",
     "vinyl": "~0.2.3"
   },
   "devDependencies": {
